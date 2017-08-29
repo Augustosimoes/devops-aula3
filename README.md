@@ -1,2 +1,2 @@
 # devops-aula3
-Github
+Gitlab
